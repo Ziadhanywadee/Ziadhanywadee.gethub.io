@@ -1,0 +1,14 @@
+header {
+    padding: 10px 50px;
+    display: flex;
+    align-items: center;
+    background-color:#132C33;
+    width: 100%;
+    position:fixed;
+}
+.logo img
+{
+    width: 100px;
+    margin: auto;
+    color:#fff;
+}
